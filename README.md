@@ -15,6 +15,8 @@ Another way to run an infected file is to import it once the .pyc file exists:
 
 For help, questions, or comments, feel free to contact us:
 
-["Joey Geralnik"](https://github.com/jgeralnik "jgeralnik")
-["Leon Fedotov"](https://github.com/LeonFedotov "im0b")
-["Itzik Kotler"](https://github.com/ikotler "itzikkotler")
+[Joey Geralnik](https://github.com/jgeralnik "jgeralnik")
+
+[Leon Fedotov](https://github.com/LeonFedotov "im0b")
+
+[Itzik Kotler](https://github.com/ikotler "itzikkotler")
