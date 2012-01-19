@@ -16,7 +16,9 @@ Another way to run an infected file is to import it once the .pyc file exists:
 The infected files print out a list of files that they have newly infected, followed by the phrase "You have been exploited"
 
 After that, infected programs will continue to execute as normal.
+
 [Slides are here](http://www.slideshare.net/DRagonRage519/pytroj-11153381 "slideshare")
+
 For help, questions, or comments, feel free to contact us:
 
 
