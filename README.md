@@ -19,8 +19,10 @@ After that, infected programs will continue to execute as normal.
 
 For help, questions, or comments, feel free to contact us:
 
+[Slides](http://www.slideshare.net/DRagonRage519/pytroj-11153381 "slideshare")
+
 [Joey Geralnik](https://github.com/jgeralnik "jgeralnik")
 
-[Leon Fedotov](https://github.com/LeonFedotov "im0b")
+[Leon Fedotov](https://twitter.com/#!/LeonFedotov "Leon Fedotov")
 
 [Itzik Kotler](https://github.com/ikotler "itzikkotler")
