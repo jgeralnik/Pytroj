@@ -19,6 +19,14 @@ After that, infected programs will continue to execute as normal.
 
 [Slides are here](http://www.slideshare.net/DRagonRage519/pytroj-11153381 "slideshare")
 
+
+### On the web
+
+* [Symantec - python has venom.] (http://www.symantec.com/connect/blogs/python-has-venom) 
+* [Hackernews] (http://news.ycombinator.com/item?id=3039439)
+* [Jacob's Tips for Virus Removal] (http://jacoblol75.blog.com/2011/10/09/simple-ways-to-get-rid-of-python-pytroj/)
+* [Packet strom] (http://packetstormsecurity.org/files/105385/Pytroj-Tool-Python-Injector.html)
+
 For help, questions, or comments, feel free to contact us:
 
 
